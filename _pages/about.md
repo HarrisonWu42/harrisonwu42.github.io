@@ -20,7 +20,7 @@ redirect_from:
 I am a Research Assistant at the EIT-NLP Lab, advised by [Prof. Xiaoyu Shen (沈晓宇)](https://chin-gyou.github.io/). My research focuses on efficient multimodal large language models (MLLMs), particularly MLLM compression and streaming LLMs. I plan to pursue a PhD in 2026 through a joint program between Eastern Institute of Technology, Ningbo (宁波东方理工大学) and Shanghai Jiao Tong University (上海交通大学).
 
 
-My recent work explores compression techniques for MLLMs, including image, video, audio, 3D and Omni MLLMs. If you are interested in academic collaboration, please feel free to reach out via email ([haowu.ai.research@gmail.com](haowu.ai.research@gmail.com)). We are always looking for motivated interns!
+My recent work explores compression techniques for MLLMs, including image, video, audio, 3D and Omni LLMs. If you are interested in academic collaboration, please feel free to reach out via email ([haowu.ai.research@gmail.com](haowu.ai.research@gmail.com)). **We are always looking for motivated interns!**
 
 
 My research interest includes MLLMs and World Models. Beyond accelerating models through compression, I aim to identify and reuse redundancy in representations, attention patterns, and multimodal interactions to develop efficient architectures that improve both performance and computational efficiency in the long run. I have published 7 papers <a href='https://scholar.google.com/citations?user=Ix9RD18AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences and journals, such as ICLR, CVPR, ECCV, TMM, TMI, TGRS. 
@@ -65,9 +65,9 @@ See full list in [Publications](https://scholar.google.com.hk/citations?user=Ix9
 
 
 ### Pathology MLLMs
-- ![PDF](https://img.shields.io/badge/TMI-2025-1f6feb)[PathBench: Advancing the Benchmark of Large Multimodal Models for Pathology Image Understanding at Patch and Whole Slide Level](https://ieeexplore.ieee.org/abstract/document/11062674/). Yuxuan Sun, **Hao Wu**, Chenglu Zhu, et al, Tao Lin<sup>†</sup>, Lin Yang<sup>†</sup>.
+- ![PDF](https://img.shields.io/badge/TMI-2025-1f6feb) [PathBench: Advancing the Benchmark of Large Multimodal Models for Pathology Image Understanding at Patch and Whole Slide Level](https://ieeexplore.ieee.org/abstract/document/11062674/). Yuxuan Sun, **Hao Wu**, Chenglu Zhu, et al, Tao Lin<sup>†</sup>, Lin Yang<sup>†</sup>.
 
-- ![PDF](https://img.shields.io/badge/ECCV-2024-1f6feb)[PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology](https://arxiv.org/abs/2401.16355). Yuxuan Sun, **Hao Wu**, Chenglu Zhu, et al, Tao Lin<sup>†</sup>, Lin Yang<sup>†</sup>. 
+- ![PDF](https://img.shields.io/badge/ECCV-2024-1f6feb) (Best Paper Award Candidate)[PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology](https://arxiv.org/abs/2401.16355). Yuxuan Sun, **Hao Wu**, Chenglu Zhu, et al, Tao Lin<sup>†</sup>, Lin Yang<sup>†</sup>. 
 
 
 <!-- ### Others
