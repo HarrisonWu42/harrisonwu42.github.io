@@ -78,7 +78,7 @@ See full list in [Publications](https://scholar.google.com.hk/citations?user=Ix9
 - ![PDF](https://img.shields.io/badge/TGRS-2024-1f6feb) [Crater-DETR: A novel transformer network for crater detection based on dense supervision and multiscale fusion](https://ieeexplore.ieee.org/abstract/document/10466735/). Yue Guo, **Hao Wu**, Shuojin Yang, Zhanchuan Cai<sup>†</sup>. 
 
 # 🏆 Honors and Awards
-- *2024.10* ECCV 2024 Best Paper Award Finalist (Top 0.2%).
+- *2024.10* ECCV 2024 Best Paper Finalist (Top 0.2%).
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
