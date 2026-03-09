@@ -57,7 +57,7 @@ See full list in [Publications](https://scholar.google.com.hk/citations?user=Ix9
 
 
 ### MLLM Compression
-- ![PDF](https://img.shields.io/badge/CVPR-2026-1f6feb) [UTPTrack: Towards Simple and Unified Token Pruning for Visual Tracking](https://github.com). **Hao Wu<sup>\*</sup>**, Xudong Wang<sup>\*</sup>, Jialiang Zhang, Junlong Tong, Xinghao Chen, Junyan Lin, Yunpu Ma, Xiaoyu Shen<sup>†</sup>. [![GitHub stars](https://img.shields.io/github/stars/EIT-NLP/UTPTrack?logo=github)](https://github.com/EIT-NLP/UTPTrack)
+- ![PDF](https://img.shields.io/badge/CVPR-2026-1f6feb) [UTPTrack: Towards Simple and Unified Token Pruning for Visual Tracking](https://arxiv.org/abs/2602.23734). **Hao Wu<sup>\*</sup>**, Xudong Wang<sup>\*</sup>, Jialiang Zhang, Junlong Tong, Xinghao Chen, Junyan Lin, Yunpu Ma, Xiaoyu Shen<sup>†</sup>. [![GitHub stars](https://img.shields.io/github/stars/EIT-NLP/UTPTrack?logo=github)](https://github.com/EIT-NLP/UTPTrack)
 
 - ![PDF](https://img.shields.io/badge/ICLR-2026-1f6feb) [HiDrop: Hierarchical Vision Token Reduction in MLLMs via Late Injection, Concave Pyramid Pruning, and Early Exit](https://arxiv.org/abs/2602.23699). **Hao Wu<sup>\*</sup>**, Yingqi Fan<sup>\*</sup>, Jinyang Dai, Junlong Tong, Yunpu Ma, Xiaoyu Shen<sup>†</sup>. [![GitHub stars](https://img.shields.io/github/stars/EIT-NLP/HiDrop?logo=github)](https://github.com/EIT-NLP/HiDrop)
 
@@ -69,13 +69,13 @@ See full list in [Publications](https://scholar.google.com.hk/citations?user=Ix9
 ### Pathology MLLMs
 - ![PDF](https://img.shields.io/badge/TMI-2025-1f6feb) [PathBench: Advancing the Benchmark of Large Multimodal Models for Pathology Image Understanding at Patch and Whole Slide Level](https://ieeexplore.ieee.org/abstract/document/11062674/). Yuxuan Sun, **Hao Wu**, Chenglu Zhu, et al, Tao Lin<sup>†</sup>, Lin Yang<sup>†</sup>.
 
-- ![PDF](https://img.shields.io/badge/ECCV-2024-1f6feb) (Best Paper Award Candidate) [PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology](https://arxiv.org/abs/2401.16355). Yuxuan Sun, **Hao Wu**, Chenglu Zhu, et al, Tao Lin<sup>†</sup>, Lin Yang<sup>†</sup>. 
+- ![PDF](https://img.shields.io/badge/ECCV-2024-1f6feb) <span style="color:#e74c3c">(Best Paper Award Candidate)</span> [PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology](https://arxiv.org/abs/2401.16355). Yuxuan Sun, **Hao Wu**, Chenglu Zhu, et al, Tao Lin<sup>†</sup>, Lin Yang<sup>†</sup>. 
 
 
 ### Others
 - ![PDF](https://img.shields.io/badge/TMM-2026-1f6feb) [A Transformer-Based Tracker Integrating Motion and Representation Information](https://ieeexplore.ieee.org/abstract/document/11395545/). Yuanhui Wang, Ben Ye, Zhanchuan Cai<sup>†</sup>, **Hao Wu**. 
 
-- ![PDF](https://img.shields.io/badge/TGRS-2024-1f6feb) [Crater-DETR: A novel transformer network for crater detection based on dense supervision and multiscale fusion](https://arxiv.org/abs/2401.16355). Yue Guo, **Hao Wu**, Shuojin Yang, Zhanchuan Cai<sup>†</sup>. 
+- ![PDF](https://img.shields.io/badge/TGRS-2024-1f6feb) [Crater-DETR: A novel transformer network for crater detection based on dense supervision and multiscale fusion](https://ieeexplore.ieee.org/abstract/document/10466735/). Yue Guo, **Hao Wu**, Shuojin Yang, Zhanchuan Cai<sup>†</sup>. 
 
 # 🏆 Honors and Awards
 - *2024.10* ECCV 2024 Best Paper Award Finalist (Top 0.2%).
