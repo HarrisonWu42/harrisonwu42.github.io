@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hao Wu (吴浩)"
-description              : "EIT-NLP Group 2026 Fall PhD Student "
+description              : "Pessimists analyze the limits, optimists push past them!"
 repository               : "HarrisonWu42/harrisonwu42.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hao Wu (吴浩)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Focus on Efficient MLLM and Streaming MLLM."
+  bio              : ""
   location         : "Ningbo, China"
-  employer         :
+  employer         : "Eastern Institute of Technology, Ningbo"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=Ix9RD18AAAAJ"
   email            : "haowu.ai.research@gmail.com"
