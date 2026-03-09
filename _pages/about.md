@@ -30,17 +30,17 @@ My research interest includes MLLMs and World Models. Beyond accelerating models
 - *2026.03*: &nbsp;We release a systematic survey about Streaming LLMs: "From Static Inference to Dynamic Interaction: Navigating the Landscape of Streaming Large Language Models". [![Preprint](https://img.shields.io/badge/arXiv-2603.04592-b31b1b)](https://arxiv.org/abs/2603.04592) [![GitHub](https://img.shields.io/badge/GitHub-Awesome--Streaming--LLMs-white?logo=github)](https://github.com/EIT-NLP/Awesome-Streaming-LLMs)
 - *2026.02*: &nbsp;We release a systematic survey about MLLM compression: "From Data to Model: A Survey of the Compression Lifecycle in MLLMs". [![Preprint](https://img.shields.io/badge/TechRxiv-DOI-b31b1b)](https://www.techrxiv.org/users/1031130/articles/1390890-from-data-to-model-a-survey-of-the-compression-lifecycle-in-mllms) [![GitHub](https://img.shields.io/badge/GitHub-Awesome--MLLM--Compression-white?logo=github)](https://github.com/EIT-NLP/Awesome-MLLM-Compression)
 - *2026.02*: &nbsp;🎉 Two papers are accepted by CVPR 2026.
-- *2026.01*: &nbsp;🎉 One paper are accepted by ICLR 2026.
-- *2026.01*: &nbsp;🎉 One paper are accepted by TMM 2026.
-- *2026.01*: &nbsp;🎉 One paper are accepted by TMI 2025.
-- *2026.01*: &nbsp;🎉 One paper are accepted by ECCV 2024.
-- *2026.01*: &nbsp;🎉 One paper are accepted by TGRS 2024.
+- *2026.02*: &nbsp;🎉 One paper is accepted by TMM 2026.
+- *2026.01*: &nbsp;🎉 One paper is accepted by ICLR 2026.
+- *2025.06*: &nbsp;🎉 One paper is accepted by TMI 2025.
+- *2024.10*: &nbsp;🎉 One paper is accepted by ECCV 2024 and nominated as a 🏆Best Paper Award Candidate.
+- *2024.03*: &nbsp;🎉 One paper is accepted by TGRS 2024.
 
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -51,20 +51,38 @@ My research interest includes MLLMs and World Models. Beyond accelerating models
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+ -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+See full list in [Publications](https://scholar.google.com.hk/citations?user=Ix9RD18AAAAJ).
+### MLLM Compression
+- ![PDF](https://img.shields.io/badge/CVPR-2026-1f6feb) [UTPTrack: Towards Simple and Unified Token Pruning for Visual Tracking](https://github.com). **Hao Wu<sup>\*</sup>**, Xudong Wang<sup>\*</sup>, Jialiang Zhang, Junlong Tong, Xinghao Chen, Junyan Lin, Yunpu Ma, Xiaoyu Shen<sup>†</sup>.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- ![PDF](https://img.shields.io/badge/ICLR-2026-1f6feb) [HiDrop: Hierarchical Vision Token Reduction in MLLMs via Late Injection, Concave Pyramid Pruning, and Early Exit](https://arxiv.org/abs/2602.23699). **Hao Wu<sup>\*</sup>**, Yingqi Fan<sup>\*</sup>, Jinyang Dai, Junlong Tong, Yunpu Ma, Xiaoyu Shen<sup>†</sup>.
 
-# 📖 Educations
+
+### Streaming LLMs 
+- ![PDF](https://img.shields.io/badge/CVPR-2026-1f6feb) [Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models](https://arxiv.org/abs/2603.02872). Jialiang Zhang<sup>\*</sup>, Junlong Tong<sup>\*</sup>, Junyan Lin<sup>\*</sup>, **Hao Wu**, Yirong Sun, Yunpu Ma, Xiaoyu Shen<sup>†</sup>.
+
+
+### Pathology MLLMs
+- ![PDF](https://img.shields.io/badge/TMI-2025-1f6feb)[PathBench: Advancing the Benchmark of Large Multimodal Models for Pathology Image Understanding at Patch and Whole Slide Level](https://ieeexplore.ieee.org/abstract/document/11062674/). Yuxuan Sun, **Hao Wu**, Chenglu Zhu, et al, Tao Lin<sup>†</sup>, Lin Yang<sup>†</sup>.
+
+- ![PDF](https://img.shields.io/badge/ECCV-2024-1f6feb)[PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology](https://arxiv.org/abs/2401.16355). Yuxuan Sun, **Hao Wu**, Chenglu Zhu, et al, Tao Lin<sup>†</sup>, Lin Yang<sup>†</sup>. 
+
+
+<!-- ### Others
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** --> 
+
+# 🏆 Honors and Awards
+- *2024.10* ECCV 2024 Best Paper Award Finalist (Top 0.2%).
+
+<!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
