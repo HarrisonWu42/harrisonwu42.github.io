@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Research Assistant at the EIT-NLP Lab, advised by [Prof. Xiaoyu Shen (沈晓宇)](https://chin-gyou.github.io/). My research focuses on efficient multimodal large language models (MLLMs), particularly MLLM compression and streaming LLMs. I plan to pursue a PhD in 2026 through a joint program between Eastern Institute of Technology, Ningbo (宁波东方理工大学) and Shanghai Jiao Tong University (上海交通大学).
+I am a Research Assistant at the [EIT-NLP Lab](https://idt.eitech.edu.cn/nlp/), advised by [Prof. Xiaoyu Shen (沈晓宇)](https://chin-gyou.github.io/). My research focuses on efficient multimodal large language models (MLLMs), particularly MLLM compression and streaming LLMs. I plan to pursue a PhD in 2026 through a joint program between Eastern Institute of Technology, Ningbo (宁波东方理工大学) and Shanghai Jiao Tong University (上海交通大学).
 
 
 My recent work explores compression techniques for MLLMs, including image, video, audio, 3D and Omni LLMs. If you are interested in academic collaboration, please feel free to reach out via email ([haowu.ai.research@gmail.com](haowu.ai.research@gmail.com)). **We are always looking for motivated interns!**
@@ -54,24 +54,28 @@ My research interest includes MLLMs and World Models. Beyond accelerating models
  -->
 
 See full list in [Publications](https://scholar.google.com.hk/citations?user=Ix9RD18AAAAJ).
-### MLLM Compression
-- ![PDF](https://img.shields.io/badge/CVPR-2026-1f6feb) [UTPTrack: Towards Simple and Unified Token Pruning for Visual Tracking](https://github.com). **Hao Wu<sup>\*</sup>**, Xudong Wang<sup>\*</sup>, Jialiang Zhang, Junlong Tong, Xinghao Chen, Junyan Lin, Yunpu Ma, Xiaoyu Shen<sup>†</sup>.
 
-- ![PDF](https://img.shields.io/badge/ICLR-2026-1f6feb) [HiDrop: Hierarchical Vision Token Reduction in MLLMs via Late Injection, Concave Pyramid Pruning, and Early Exit](https://arxiv.org/abs/2602.23699). **Hao Wu<sup>\*</sup>**, Yingqi Fan<sup>\*</sup>, Jinyang Dai, Junlong Tong, Yunpu Ma, Xiaoyu Shen<sup>†</sup>.
+
+### MLLM Compression
+- ![PDF](https://img.shields.io/badge/CVPR-2026-1f6feb) [UTPTrack: Towards Simple and Unified Token Pruning for Visual Tracking](https://github.com). **Hao Wu<sup>\*</sup>**, Xudong Wang<sup>\*</sup>, Jialiang Zhang, Junlong Tong, Xinghao Chen, Junyan Lin, Yunpu Ma, Xiaoyu Shen<sup>†</sup>. [![GitHub stars](https://img.shields.io/github/stars/EIT-NLP/UTPTrack?logo=github)](https://github.com/EIT-NLP/UTPTrack)
+
+- ![PDF](https://img.shields.io/badge/ICLR-2026-1f6feb) [HiDrop: Hierarchical Vision Token Reduction in MLLMs via Late Injection, Concave Pyramid Pruning, and Early Exit](https://arxiv.org/abs/2602.23699). **Hao Wu<sup>\*</sup>**, Yingqi Fan<sup>\*</sup>, Jinyang Dai, Junlong Tong, Yunpu Ma, Xiaoyu Shen<sup>†</sup>. [![GitHub stars](https://img.shields.io/github/stars/EIT-NLP/HiDrop?logo=github)](https://github.com/EIT-NLP/HiDrop)
 
 
 ### Streaming LLMs 
-- ![PDF](https://img.shields.io/badge/CVPR-2026-1f6feb) [Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models](https://arxiv.org/abs/2603.02872). Jialiang Zhang<sup>\*</sup>, Junlong Tong<sup>\*</sup>, Junyan Lin<sup>\*</sup>, **Hao Wu**, Yirong Sun, Yunpu Ma, Xiaoyu Shen<sup>†</sup>.
+- ![PDF](https://img.shields.io/badge/CVPR-2026-1f6feb) [Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models](https://arxiv.org/abs/2603.02872). Jialiang Zhang<sup>\*</sup>, Junlong Tong<sup>\*</sup>, Junyan Lin<sup>\*</sup>, **Hao Wu**, Yirong Sun, Yunpu Ma, Xiaoyu Shen<sup>†</sup>. [![GitHub stars](https://img.shields.io/github/stars/EIT-NLP/StreamingLLM?logo=github)](https://github.com/EIT-NLP/StreamingLLM/tree/main/TaYS)
 
 
 ### Pathology MLLMs
 - ![PDF](https://img.shields.io/badge/TMI-2025-1f6feb) [PathBench: Advancing the Benchmark of Large Multimodal Models for Pathology Image Understanding at Patch and Whole Slide Level](https://ieeexplore.ieee.org/abstract/document/11062674/). Yuxuan Sun, **Hao Wu**, Chenglu Zhu, et al, Tao Lin<sup>†</sup>, Lin Yang<sup>†</sup>.
 
-- ![PDF](https://img.shields.io/badge/ECCV-2024-1f6feb) (Best Paper Award Candidate)[PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology](https://arxiv.org/abs/2401.16355). Yuxuan Sun, **Hao Wu**, Chenglu Zhu, et al, Tao Lin<sup>†</sup>, Lin Yang<sup>†</sup>. 
+- ![PDF](https://img.shields.io/badge/ECCV-2024-1f6feb) (Best Paper Award Candidate) [PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology](https://arxiv.org/abs/2401.16355). Yuxuan Sun, **Hao Wu**, Chenglu Zhu, et al, Tao Lin<sup>†</sup>, Lin Yang<sup>†</sup>. 
 
 
-<!-- ### Others
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** --> 
+### Others
+- ![PDF](https://img.shields.io/badge/TMM-2026-1f6feb) [A Transformer-Based Tracker Integrating Motion and Representation Information](https://ieeexplore.ieee.org/abstract/document/11395545/). Yuanhui Wang, Ben Ye, Zhanchuan Cai<sup>†</sup>, **Hao Wu**. 
+
+- ![PDF](https://img.shields.io/badge/TGRS-2024-1f6feb) [Crater-DETR: A novel transformer network for crater detection based on dense supervision and multiscale fusion](https://arxiv.org/abs/2401.16355). Yue Guo, **Hao Wu**, Shuojin Yang, Zhanchuan Cai<sup>†</sup>. 
 
 # 🏆 Honors and Awards
 - *2024.10* ECCV 2024 Best Paper Award Finalist (Top 0.2%).
