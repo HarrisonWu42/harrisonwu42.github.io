@@ -17,9 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Research Assistant at the EIT-NLP Lab, advised by [Prof. Xiaoyu Shen](https://chin-gyou.github.io/). My research focuses on efficient multimodal large language models (MLLMs), particularly MLLM compression and streaming LLMs. I plan to pursue a PhD in 2026 through a joint program between Eastern Institute of Technology, Ningbo (宁波东方理工大学) and Shanghai Jiao Tong University (上海交通大学).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+My recent work explores compression techniques for MLLMs, including image, video, audio, 3D and Omni MLLMs. If you are interested in academic collaboration, please feel free to reach out via email (haowu.ai.research@gmail.com). We are always looking for motivated interns.
+
+
+
+My research interest includes MLLMs and World Models. Beyond accelerating models through compression, I aim to identify and reuse redundancy in representations, attention patterns, and multimodal interactions to develop efficient architectures that improve both performance and computational efficiency in the long run. I have published 7 papers <a href='https://scholar.google.com/citations?user=Ix9RD18AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences and journals, such as ICLR, CVPR, ECCV, TMM, TMI, TGRS. 
 
 
 # 🔥 News
