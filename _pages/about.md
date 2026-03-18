@@ -27,9 +27,9 @@ My research interest includes MLLMs and World Models. Beyond accelerating models
 
 
 # 🔥 News
-- *2026.03*: &nbsp; 📰 Our CVPR 2026 paper on streaming video reasoning has received media coverage from [量子位](https://mp.weixin.qq.com/s/czMmpq25L2j1SVP9nrxXvg), showcasing its impact on efficient and real-time video reasoning.
-- *2026.03*: &nbsp; 📢 We release a systematic survey about Streaming LLMs: "From Static Inference to Dynamic Interaction: Navigating the Landscape of Streaming Large Language Models". [![Preprint](https://img.shields.io/badge/arXiv-2603.04592-b31b1b)](https://arxiv.org/abs/2603.04592) [![GitHub](https://img.shields.io/badge/GitHub-Awesome--Streaming--LLMs-white?logo=github)](https://github.com/EIT-NLP/Awesome-Streaming-LLMs)
-- *2026.02*: &nbsp; 📢 We release a systematic survey about MLLM compression: "From Data to Model: A Survey of the Compression Lifecycle in MLLMs". [![Preprint](https://img.shields.io/badge/TechRxiv-DOI-b31b1b)](https://www.techrxiv.org/users/1031130/articles/1390890-from-data-to-model-a-survey-of-the-compression-lifecycle-in-mllms) [![GitHub](https://img.shields.io/badge/GitHub-Awesome--MLLM--Compression-white?logo=github)](https://github.com/EIT-NLP/Awesome-MLLM-Compression)
+- *2026.03*: &nbsp;📰 Our CVPR 2026 paper on streaming video reasoning has received media coverage from [量子位](https://mp.weixin.qq.com/s/czMmpq25L2j1SVP9nrxXvg), showcasing its impact on efficient and real-time video reasoning.
+- *2026.03*: &nbsp;📢 We release a systematic survey about Streaming LLMs: "From Static Inference to Dynamic Interaction: Navigating the Landscape of Streaming Large Language Models". [![Preprint](https://img.shields.io/badge/arXiv-2603.04592-b31b1b)](https://arxiv.org/abs/2603.04592) [![GitHub](https://img.shields.io/badge/GitHub-Awesome--Streaming--LLMs-white?logo=github)](https://github.com/EIT-NLP/Awesome-Streaming-LLMs)
+- *2026.02*: &nbsp;📢 We release a systematic survey about MLLM compression: "From Data to Model: A Survey of the Compression Lifecycle in MLLMs". [![Preprint](https://img.shields.io/badge/TechRxiv-DOI-b31b1b)](https://www.techrxiv.org/users/1031130/articles/1390890-from-data-to-model-a-survey-of-the-compression-lifecycle-in-mllms) [![GitHub](https://img.shields.io/badge/GitHub-Awesome--MLLM--Compression-white?logo=github)](https://github.com/EIT-NLP/Awesome-MLLM-Compression)
 - *2026.02*: &nbsp;🎉 Two papers are accepted by CVPR 2026.
 - *2026.02*: &nbsp;🎉 One paper is accepted by TMM 2026.
 - *2026.01*: &nbsp;🎉 One paper is accepted by ICLR 2026.
