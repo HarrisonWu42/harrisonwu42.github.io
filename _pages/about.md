@@ -58,6 +58,7 @@ See full list in [Publications](https://scholar.google.com.hk/citations?user=Ix9
 
 
 ### MLLM Compression
+- ![Preprint](https://img.shields.io/badge/TechRxiv-Survey-b31b1b) [From Data to Model: A Survey of the Compression Lifecycle in MLLMs.]((https://www.techrxiv.org/users/1031130/articles/1390890-from-data-to-model-a-survey-of-the-compression-lifecycle-in-mllms)) **Hao Wu<sup>\*</sup>**, Junlong Tong<sup>\*</sup>, Xudong Wang, Yang Tan, Changyu Zeng, Anastasia Antsiferova, Xiaoyu Shen<sup>†</sup>. [![GitHub stars](https://img.shields.io/github/stars/EIT-NLP/Awesome-MLLM-Compression?logo=github)](https://github.com/EIT-NLP/Awesome-MLLM-Compression)
 - ![Preprint](https://img.shields.io/badge/arXiv-2602.07574-b31b1b) [ViCA: Efficient Multimodal LLMs with Vision-Only Cross-Attention](https://arxiv.org/abs/2602.07574). Wenjie Liu<sup>\*</sup>, **Hao Wu<sup>\*</sup>**, Xin Qiu, Yingqi Fan, Yihan Zhang, Anhao Zhao, Yunpu Ma, Xiaoyu Shen<sup>†</sup>. [![GitHub stars](https://img.shields.io/github/stars/EIT-NLP/ViCA?logo=github)](https://github.com/EIT-NLP/ViCA)
 
 - ![PDF](https://img.shields.io/badge/CVPR-2026-1f6feb) [UTPTrack: Towards Simple and Unified Token Pruning for Visual Tracking](https://arxiv.org/abs/2602.23734). **Hao Wu<sup>\*</sup>**, Xudong Wang<sup>\*</sup>, Jialiang Zhang, Junlong Tong, Xinghao Chen, Junyan Lin, Yunpu Ma, Xiaoyu Shen<sup>†</sup>. [![GitHub stars](https://img.shields.io/github/stars/EIT-NLP/UTPTrack?logo=github)](https://github.com/EIT-NLP/UTPTrack)
@@ -65,7 +66,10 @@ See full list in [Publications](https://scholar.google.com.hk/citations?user=Ix9
 - ![PDF](https://img.shields.io/badge/ICLR-2026-1f6feb) [HiDrop: Hierarchical Vision Token Reduction in MLLMs via Late Injection, Concave Pyramid Pruning, and Early Exit](https://arxiv.org/abs/2602.23699). **Hao Wu<sup>\*</sup>**, Yingqi Fan<sup>\*</sup>, Jinyang Dai, Junlong Tong, Yunpu Ma, Xiaoyu Shen<sup>†</sup>. [![GitHub stars](https://img.shields.io/github/stars/EIT-NLP/HiDrop?logo=github)](https://github.com/EIT-NLP/HiDrop)
 
 
+[![GitHub](https://img.shields.io/badge/GitHub-Awesome--Streaming--LLMs-white?logo=github)](https://github.com/EIT-NLP/Awesome-Streaming-LLMs)
+
 ### Streaming LLMs
+- ![Preprint](https://img.shields.io/badge/arXiv-Survey-b31b1b) [FFrom Static Inference to Dynamic Interaction: A Survey of Streaming Large Language Models.]((https://arxiv.org/abs/2603.04592)) Junlong Tong, Zilong Wang, YuJie Ren, Peiran Yin, **Hao Wu**, Wei Zhang, Xiaoyu Shen<sup>†</sup>. [![GitHub stars](https://img.shields.io/github/stars/EIT-NLP/Awesome-Streaming-LLMs?logo=github)](https://github.com/EIT-NLP/Awesome-Streaming-LLMs)
 - ![Preprint](https://img.shields.io/badge/arXiv-2601.06843-b31b1b) [Speak While Watching: Unleashing TRUE Real-Time Video Understanding Capability of Multimodal Large Language Models](https://arxiv.org/abs/2601.06843). Junyan Lin<sup>\*</sup>, Junlong Tong<sup>\*</sup>, **Hao Wu**<sup>\*</sup>, Jialiang Zhang<sup>\*</sup>, Jinming Liu, Xin Jin, Xiaoyu Shen<sup>†</sup>. [![GitHub stars](https://img.shields.io/github/stars/EIT-NLP/Speak-While-Watching?logo=github)](https://github.com/EIT-NLP/Speak-While-Watching)
 
 - ![PDF](https://img.shields.io/badge/CVPR-2026-1f6feb) [Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models](https://arxiv.org/abs/2603.02872). Jialiang Zhang<sup>\*</sup>, Junlong Tong<sup>\*</sup>, Junyan Lin<sup>\*</sup>, **Hao Wu**, Yirong Sun, Yunpu Ma, Xiaoyu Shen<sup>†</sup>. [![GitHub stars](https://img.shields.io/github/stars/EIT-NLP/StreamingLLM?logo=github)](https://github.com/EIT-NLP/StreamingLLM/tree/main/TaYS)
