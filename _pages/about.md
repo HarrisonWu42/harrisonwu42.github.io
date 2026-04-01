@@ -26,6 +26,9 @@ My recent work explores compression techniques for MLLMs, including image, video
 My research interest includes MLLMs and World Models. Beyond accelerating models through compression, I aim to identify and reuse redundancy in representations, attention patterns, and multimodal interactions to develop efficient architectures that improve both performance and computational efficiency in the long run. I have published 7 papers <a href='https://scholar.google.com/citations?user=Ix9RD18AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top-tier AI conferences and journals (e.g., ICLR, CVPR, ECCV, TMM, TMI, and TGRS), including one Best Paper Finalist.  
 
 
+<!-- 🔥 📚 👀 🌟 ✨ ✒️ 🎯 📄 🙏 ✉️ 🤗 🌐 🚀 🔔 💡 🔧 ⭐️ 📋 -->
+
+
 # 🔥 News
 - *2026.03*: &nbsp;📰 Our ICLR 2026 paper on mllm compression has received media coverage from [MachineSapiens（机器之心）](https://mp.weixin.qq.com/s/QKGZ7cFi0zJ7XeDlBp4uwQ?scene=1&click_id=5), showcasing its impact on efficient MLLMs.
 - *2026.03*: &nbsp;📰 Our CVPR 2026 paper on streaming video reasoning has received media coverage from [QbitAI（量子位）](https://mp.weixin.qq.com/s/czMmpq25L2j1SVP9nrxXvg), showcasing its impact on efficient and real-time video reasoning.
@@ -95,3 +98,7 @@ See full list in [Publications](https://scholar.google.com.hk/citations?user=Ix9
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+# 🌐 Academic Services
+- Invited Reviewer for IEEE TMM.
+<!-- - Invited Reviewer for NeurIPS. -->
