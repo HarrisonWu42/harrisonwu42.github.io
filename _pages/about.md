@@ -77,7 +77,7 @@ See full list in [Publications](https://scholar.google.com.hk/citations?user=Ix9
 ### Pathology MLLMs
 - ![PDF](https://img.shields.io/badge/TMI-2025-1f6feb) [PathBench: Advancing the Benchmark of Large Multimodal Models for Pathology Image Understanding at Patch and Whole Slide Level](https://ieeexplore.ieee.org/abstract/document/11062674/). Yuxuan Sun, **Hao Wu**, Chenglu Zhu, et al, Tao Lin<sup>†</sup>, Lin Yang<sup>†</sup>.
 
-- ![PDF](https://img.shields.io/badge/ECCV-2024-1f6feb) <span style="color:#e74c3c">(Best Paper Award Candidate)</span> [PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology](https://arxiv.org/abs/2401.16355). Yuxuan Sun, **Hao Wu**, Chenglu Zhu, et al, Tao Lin<sup>†</sup>, Lin Yang<sup>†</sup>. 
+- ![PDF](https://img.shields.io/badge/ECCV-2024-1f6feb) <span style="color:#e74c3c">(Best Paper Award Candidate)</span> [PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology](https://arxiv.org/abs/2401.16355). Yuxuan Sun, **Hao Wu**, Chenglu Zhu, et al, Tao Lin<sup>†</sup>, Lin Yang<sup>†</sup>. [![GitHub stars](https://img.shields.io/github/stars/PathMMU-Benchmark/PathMMU)](https://github.com/PathMMU-Benchmark/PathMMU)
 
 
 ### Others
