@@ -75,6 +75,12 @@ See full list in [Publications](https://scholar.google.com.hk/citations?user=Ix9
 
 - ![PDF](https://img.shields.io/badge/CVPR-2026-1f6feb) [Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models](https://arxiv.org/abs/2603.02872). Jialiang Zhang<sup>\*</sup>, Junlong Tong<sup>\*</sup>, Junyan Lin<sup>\*</sup>, **Hao Wu**, Yirong Sun, Yunpu Ma, Xiaoyu Shen<sup>†</sup>. [![GitHub stars](https://img.shields.io/github/stars/EIT-NLP/StreamingLLM?logo=github)](https://github.com/EIT-NLP/StreamingLLM/tree/main/TaYS)
 
+
+### Agentic LMMs/MLLMs
+- ![Preprint](https://img.shields.io/badge/arXiv-2604.11557-b31b1b) [UniToolCall: Unifying Tool-Use Representation, Data, and Evaluation for LLM Agents](https://arxiv.org/abs/2604.11557). Yijuan Liang, Xinghao Chen, Yifan Ge, Ziyi Wu, **Hao Wu**, Changyu Zeng, Wei Xing, Xiaoyu Shen<sup>†</sup>. [![GitHub stars](https://img.shields.io/github/stars/EIT-NLP/UniToolCall?logo=github)](https://github.com/EIT-NLP/UniToolCall)
+
+
+
 ### Pathology MLLMs
 - ![PDF](https://img.shields.io/badge/TMI-2025-1f6feb) [PathBench: Advancing the Benchmark of Large Multimodal Models for Pathology Image Understanding at Patch and Whole Slide Level](https://ieeexplore.ieee.org/abstract/document/11062674/). Yuxuan Sun, **Hao Wu**, Chenglu Zhu, et al, Tao Lin<sup>†</sup>, Lin Yang<sup>†</sup>.
 
