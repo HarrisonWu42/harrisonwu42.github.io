@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Research Assistant at the [EIT-NLP Lab](https://idt.eitech.edu.cn/nlp/), advised by [Prof. Xiaoyu Shen (沈晓宇)](https://chin-gyou.github.io/). My research focuses on efficient multimodal large language models (MLLMs), particularly MLLM compression and streaming LLMs. I plan to pursue a PhD in 2026 through a joint program between Eastern Institute of Technology, Ningbo (宁波东方理工大学) and Shanghai Jiao Tong University (上海交通大学).
-
+I am a PhD student at the [EIT-NLP Lab](https://idt.eitech.edu.cn/nlp/), advised by [Prof. Xiaoyu Shen (沈晓宇)](https://chin-gyou.github.io/), through a joint program between Eastern Institute of Technology, Ningbo (宁波东方理工大学) and Shanghai Jiao Tong University (上海交通大学). My research focuses on efficient multimodal large language models (MLLMs), particularly MLLM compression and streaming multimodal language models.
 
 My recent work explores compression techniques for MLLMs, including image, video, audio, 3D and Omni LLMs. If you are interested in academic collaboration, please feel free to reach out via email (haowu.ai.research@gmail.com). **We are always looking for motivated interns!**
 
