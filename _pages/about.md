@@ -112,5 +112,5 @@ See full list in [Publications](https://scholar.google.com.hk/citations?user=Ix9
 
 # 🌐 Academic Services
 - Conference Reivewer: NeurIPS, AAAI.
-- Journal Reviewer: TMM.
+- Journal Reviewer: TMM, PR.
 <!-- Invited Reviewer for NeurIPS. -->
