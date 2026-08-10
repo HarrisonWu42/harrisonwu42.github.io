@@ -69,7 +69,8 @@ See full list in [Publications](https://scholar.google.com.hk/citations?user=Ix9
 
 
 ### LLM Compression
-- ![Preprint](https://img.shields.io/badge/arXiv-2606.09080-b31b1b) [Beyond FLOPs: Benchmarking Real Inference Acceleration of LLM Pruning under a GEMM-Centric Taxonomy.](https://arxiv.org/abs/2606.09080) Haozhe Hu, **Hao Wu**, Anhao Zhao, Longwei Ding, Peiran Yin, Yunpu Ma, Xiaoyu Shen<sup>†</sup>. [![GitHub stars](https://img.shields.io/github/stars/EIT-NLP/LLM-Pruning?logo=github)](https://github.com/EIT-NLP/LLM-Pruning/tree/main/PruningInferSim)
+- ![Preprint](https://img.shields.io/badge/arXiv-2607.28418-b31b1b) [WIDE: Boosting Adaptive LLM Inference via Token-level Dynamic Width Pruning](https://arxiv.org/abs/2607.28418). Haozhe Hu, **Hao Wu**, Peiran Yin, Chao Han, Yunpu Ma, Xiaoyu Shen<sup>†</sup>. [![GitHub stars](https://img.shields.io/github/stars/EIT-NLP/LLM-Pruning?logo=github)](https://github.com/EIT-NLP/LLM-Pruning/tree/main/WIDE)
+- ![Preprint](https://img.shields.io/badge/arXiv-2606.09080-b31b1b) [Beyond FLOPs: Benchmarking Real Inference Acceleration of LLM Pruning under a GEMM-Centric Taxonomy](https://arxiv.org/abs/2606.09080). Haozhe Hu, **Hao Wu**, Anhao Zhao, Longwei Ding, Peiran Yin, Yunpu Ma, Xiaoyu Shen<sup>†</sup>. [![GitHub stars](https://img.shields.io/github/stars/EIT-NLP/LLM-Pruning?logo=github)](https://github.com/EIT-NLP/LLM-Pruning/tree/main/PruningInferSim)
 
 
 ### Streaming LLMs/MLLMs
