@@ -29,6 +29,7 @@ My research interest includes MLLMs and World Models. Beyond accelerating models
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉 One paper is accepted by EMNLP 2026.
 - *2026.04*: &nbsp;🎉 Our Streaming LLM survey is accepted by ACL 2026 Findings.
 - *2026.03*: &nbsp;📰 Our ICLR 2026 paper on mllm compression has received media coverage from [MachineSapiens（机器之心）](https://mp.weixin.qq.com/s/QKGZ7cFi0zJ7XeDlBp4uwQ?scene=1&click_id=5), showcasing its impact on efficient MLLMs.
 - *2026.03*: &nbsp;📰 Our CVPR 2026 paper on streaming video reasoning has received media coverage from [QbitAI（量子位）](https://mp.weixin.qq.com/s/czMmpq25L2j1SVP9nrxXvg), showcasing its impact on efficient and real-time video reasoning.
@@ -70,7 +71,7 @@ See full list in [Publications](https://scholar.google.com.hk/citations?user=Ix9
 
 ### LLM Compression
 - ![Preprint](https://img.shields.io/badge/arXiv-2607.28418-b31b1b) [WIDE: Boosting Adaptive LLM Inference via Token-level Dynamic Width Pruning](https://arxiv.org/abs/2607.28418). Haozhe Hu, **Hao Wu**, Peiran Yin, Chao Han, Yunpu Ma, Xiaoyu Shen<sup>†</sup>. [![GitHub stars](https://img.shields.io/github/stars/EIT-NLP/LLM-Pruning?logo=github)](https://github.com/EIT-NLP/LLM-Pruning/tree/main/WIDE)
-- ![Preprint](https://img.shields.io/badge/arXiv-2606.09080-b31b1b) [Beyond FLOPs: Benchmarking Real Inference Acceleration of LLM Pruning under a GEMM-Centric Taxonomy](https://arxiv.org/abs/2606.09080). Haozhe Hu, **Hao Wu**, Anhao Zhao, Longwei Ding, Peiran Yin, Yunpu Ma, Xiaoyu Shen<sup>†</sup>. [![GitHub stars](https://img.shields.io/github/stars/EIT-NLP/LLM-Pruning?logo=github)](https://github.com/EIT-NLP/LLM-Pruning/tree/main/PruningInferSim)
+- ![PDF](https://img.shields.io/badge/EMNLP-2026-1f6feb) [Beyond FLOPs: Benchmarking Real Inference Acceleration of LLM Pruning under a GEMM-Centric Taxonomy](https://arxiv.org/abs/2606.09080). Haozhe Hu, **Hao Wu**, Anhao Zhao, Longwei Ding, Peiran Yin, Yunpu Ma, Xiaoyu Shen<sup>†</sup>. [![GitHub stars](https://img.shields.io/github/stars/EIT-NLP/LLM-Pruning?logo=github)](https://github.com/EIT-NLP/LLM-Pruning/tree/main/PruningInferSim)
 
 
 ### Streaming LLMs/MLLMs
