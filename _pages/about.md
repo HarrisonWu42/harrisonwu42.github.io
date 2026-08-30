@@ -22,7 +22,7 @@ I am a PhD student at the [EIT-NLP Lab](https://idt.eitech.edu.cn/nlp/), advised
 My recent work explores compression techniques for MLLMs, including image, video, audio, 3D and Omni LLMs. If you are interested in academic collaboration, please feel free to reach out via email (haowu.ai.research@gmail.com). **We are always looking for motivated interns!**
 
 
-My research interest includes MLLMs and World Models. Beyond accelerating models through compression, I aim to identify and reuse redundancy in representations, attention patterns, and multimodal interactions to develop efficient architectures that improve both performance and computational efficiency in the long run. I have published 7 papers <a href='https://scholar.google.com/citations?user=Ix9RD18AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top-tier AI conferences and journals (e.g., ICLR, CVPR, ECCV, TMM, TMI, and TGRS), including one Best Paper Finalist.  
+My research interest includes MLLMs and World Models. Beyond accelerating models through compression, I aim to identify and reuse redundancy in representations, attention patterns, and multimodal interactions to develop efficient architectures that improve both performance and computational efficiency in the long run. I have published 9 papers <a href='https://scholar.google.com/citations?user=Ix9RD18AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top-tier AI conferences and journals (e.g., ICLR, CVPR, ECCV, ACL, EMNLP, TMM, TMI, and TGRS), including one Best Paper Finalist.  
 
 
 <!-- 🔥 📚 👀 🌟 ✨ ✒️ 🎯 📄 🙏 ✉️ 🤗 🌐 🚀 🔔 💡 🔧 ⭐️ 📋 -->
@@ -113,6 +113,6 @@ See full list in [Publications](https://scholar.google.com.hk/citations?user=Ix9
 - *2022.05 - 2022.08*, Yunqi Academy of Engineering, Hangzhou. -->
 
 # 🌐 Academic Services
-- Conference Reivewer: NeurIPS, AAAI.
+- Conference Reivewer: NeurIPS, ICLR, AAAI.
 - Journal Reviewer: TMM, PR.
 <!-- Invited Reviewer for NeurIPS. -->
