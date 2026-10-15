@@ -122,6 +122,6 @@ See full list in [Publications](https://scholar.google.com.hk/citations?user=Ix9
 - *2022.05 - 2022.08*, Yunqi Academy of Engineering, Hangzhou. -->
 
 # 🌐 Academic Services
-- Conference Reivewer: NeurIPS, ICLR, AAAI.
+- Conference Reivewer: NeurIPS, ICLR, AAAI, ARR.
 - Journal Reviewer: TMM, PR.
 <!-- Invited Reviewer for NeurIPS. -->
