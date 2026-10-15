@@ -26,7 +26,7 @@ author:
   bio              : ""
   location         : "Shanghai, China"
   employer         : "Shanghai Jiaotong University"
-  employer         : "Eastern Institute of Technology, Ningbo"
+  # employer         : "Eastern Institute of Technology, Ningbo"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=Ix9RD18AAAAJ"
   email            : "haowu.83@sjtu.edu.cn"
@@ -45,7 +45,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : # https://dblp.org/pid/72/4250-72.html
   orcid            : https://orcid.org/0009-0006-8642-4569 # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
