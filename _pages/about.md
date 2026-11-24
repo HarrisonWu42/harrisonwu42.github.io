@@ -22,13 +22,14 @@ I am a PhD student at the [EIT-NLP Lab](https://idt.eitech.edu.cn/nlp/), advised
 My recent work explores compression techniques for MLLMs, including image, video, audio, 3D and Omni LLMs. If you are interested in academic collaboration, please feel free to reach out via email (haowu.ai.research@gmail.com). **We are always looking for motivated interns!**
 
 
-My research interest includes MLLMs and World Models. Beyond accelerating models through compression, I aim to identify and reuse redundancy in representations, attention patterns, and multimodal interactions to develop efficient architectures that improve both performance and computational efficiency in the long run. I have published 9 papers <a href='https://scholar.google.com/citations?user=Ix9RD18AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top-tier AI conferences and journals (e.g., ICLR, CVPR, ECCV, ACL, EMNLP, TMM, TMI, and TGRS), including one Best Paper Finalist.  
+My research interest includes MLLMs and World Models. Beyond accelerating models through compression, I aim to identify and reuse redundancy in representations, attention patterns, and multimodal interactions to develop efficient architectures that improve both performance and computational efficiency in the long run. I have published 10 papers <a href='https://scholar.google.com/citations?user=Ix9RD18AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top-tier AI conferences and journals (e.g., ICLR, CVPR, ECCV, ACL, EMNLP, TMM, TMI, and TGRS), including one Best Paper Finalist.  
 
 
 <!-- 🔥 📚 👀 🌟 ✨ ✒️ 🎯 📄 🙏 ✉️ 🤗 🌐 🚀 🔔 💡 🔧 ⭐️ 📋 -->
 
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉 OmniSpeed v0.1.0 is now open source! We introduce a unified framework for accelerating multimodal large language models, providing a unified action space for Token and Operation compression across training, evaluation, analysis, and inference. OmniSpeed enables compression methods to be reused, combined, and extended. Try it out, share your feedback, and contribute!
 - *2026.08*: &nbsp;🎉 One paper is accepted by EMNLP 2026.
 - *2026.04*: &nbsp;🎉 Our Streaming LLM survey is accepted by ACL 2026 Findings.
 - *2026.03*: &nbsp;📰 Our ICLR 2026 paper on mllm compression has received media coverage from [MachineSapiens（机器之心）](https://mp.weixin.qq.com/s/QKGZ7cFi0zJ7XeDlBp4uwQ?scene=1&click_id=5), showcasing its impact on efficient MLLMs.
@@ -68,6 +69,9 @@ See full list in [Publications](https://scholar.google.com.hk/citations?user=Ix9
 - ![Preprint](https://img.shields.io/badge/arXiv-2610.13035-b31b1b) [GeoGR: Spatial–Semantic Token Compression and Group Routing for Efficient 3D VLMs](https://arxiv.org/abs/2610.13035). Yongxin Zheng<sup>\*</sup>, **Hao Wu<sup>\*</sup>**, Fang Li, Hu Fu, Peiran Yin, Xudong Wang, Haozhe Hu, Xinghao Chen, Yunpu Ma, Wei Zhang, Xiaoyu Shen<sup>†</sup>. [![GitHub stars](https://img.shields.io/github/stars/EIT-NLP/GeoGR?logo=github)](https://github.com/EIT-NLP/GeoGR)
 
 - ![Preprint](https://img.shields.io/badge/arXiv-2610.33688-b31b1b) [Rescuing Your Pruning: Rethinking Visual Token Pruning and Post-Training Recovery in MLLMs](https://arxiv.org/abs/2610.33688). Peiran Yin<sup>\*</sup>, **Hao Wu<sup>\*</sup>**,  Zihao Yang, Haozhe Hu, Xudong Wang, Xiaoyu Shen<sup>†</sup>. 
+
+- ![Preprint](https://img.shields.io/badge/arXiv-2610.26545-b31b1b) [ReInsVLN: Revisiting Historical Evidence for Training-Free Vision-and-Language Navigation
+](https://arxiv.org/abs/2610.26545). Siwei Chen<sup>\*</sup>, **Hao Wu<sup>\*</sup>**,  Zitong Qi, Xinming Zhang, Haoyu Xi, Peiran Yin, Haozhe Hu, Xudong Wang, Xiaoyu Shen<sup>†</sup>, Wei Zhang<sup>†</sup>. 
 
 
 - ![Preprint](https://img.shields.io/badge/arXiv-2602.07574-b31b1b) [ViCA: Efficient Multimodal LLMs with Vision-Only Cross-Attention](https://arxiv.org/abs/2602.07574). Wenjie Liu<sup>\*</sup>, **Hao Wu<sup>\*</sup>**, Xin Qiu, Yingqi Fan, Yihan Zhang, Anhao Zhao, Yunpu Ma, Xiaoyu Shen<sup>†</sup>. [![GitHub stars](https://img.shields.io/github/stars/EIT-NLP/ViCA?logo=github)](https://github.com/EIT-NLP/ViCA)
