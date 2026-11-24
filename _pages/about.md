@@ -29,7 +29,7 @@ My research interest includes MLLMs and World Models. Beyond accelerating models
 
 
 # 🔥 News
-- *2026.11*: &nbsp;🎉 OmniSpeed v0.1.0 is now open source! We introduce a unified framework for accelerating multimodal large language models, providing a unified action space for Token and Operation compression across training, evaluation, analysis, and inference. OmniSpeed enables compression methods to be reused, combined, and extended. Try it out, share your feedback, and contribute!
+- *2026.11*: &nbsp;🎉 **OmniSpeed v0.1.0** is now open source! We introduce a unified **framework** for accelerating multimodal large language models, providing a unified **action space** for Token and Operation compression across **training, evaluation, analysis, and inference**. OmniSpeed enables compression methods to be reused, combined, and extended. Try it out, share your feedback, and contribute!
 - *2026.08*: &nbsp;🎉 One paper is accepted by EMNLP 2026.
 - *2026.04*: &nbsp;🎉 Our Streaming LLM survey is accepted by ACL 2026 Findings.
 - *2026.03*: &nbsp;📰 Our ICLR 2026 paper on mllm compression has received media coverage from [MachineSapiens（机器之心）](https://mp.weixin.qq.com/s/QKGZ7cFi0zJ7XeDlBp4uwQ?scene=1&click_id=5), showcasing its impact on efficient MLLMs.
